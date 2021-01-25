@@ -1,6 +1,6 @@
 ### Hi there, I'm a full-stack developer, I mainly program in Java and the Angular framework. Currently, I work for blue-veery 😊
 
-[![Website](https://blue-veery.com/wp-content/uploads/2015/11/logo-web-blueveery.png)](https://blue-veery.com/)
+[<img alt="aolo23 | LinkedIn" width="250px" height="250px" src="https://blue-veery.com/wp-content/uploads/2015/11/blue-signet.png" />][blue-veery]
 
 
 ## I am an ambitious developer
@@ -42,7 +42,7 @@
 
 [linkedin]: https://www.linkedin.com/in/albert-piekielny/
 [web]: https://github.com/blue-veery-gmbh/spring-rest-2-ts
-
+[blue-veery]: https://blue-veery.com/
 <p align='center'>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbi23&count_bg=%233D66C8&title_bg=%23232D4C7C&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false"/></a>
 </p>
