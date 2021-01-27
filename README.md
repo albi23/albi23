@@ -13,7 +13,7 @@
 
 ## The project that I am developing
 
-[<img alt="aolo23 | LinkedIn" width="600px" height="250px" src="/home/albert/Pulpit/1.Projects/albi23/logos/spring-rest-2-ts.png" />][spring-generator]
+[<img alt="aolo23 | LinkedIn" width="600px" height="250px" src="https://github.com/albi23/albi23/blob/master/logos/spring-rest-2-ts.png?raw=true" />][spring-generator]
 
 
 ### Connect with me:
