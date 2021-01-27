@@ -32,6 +32,7 @@
 [<img align="left" title="JavaScript" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/js.svg" />][web]
 [<img align="left" title="HTML5" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/html5.svg" />][web]
 [<img align="left" title="CSS" alt="CSS" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/CSS3.svg" />][web]
+[<img align="left" title="SCSS" alt="SSS" width="30px" height="30px" src="" />][web]
 [<img align="left" title="Java" alt="Java" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/java.svg" />][web]
 <br />
 
