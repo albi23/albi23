@@ -20,21 +20,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Intellij Idea" width="26px" src="https://hits.seeyoufarm.com/icon/intellijidea.svg" />][web]
-[<img align="left" alt="Webstorm" width="26px" src="https://hits.seeyoufarm.com/icon/webstorm.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/angular.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/java.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/javascript.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/apachemaven.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/gnubash.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/html5.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/typescript.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/postgresql.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/css3.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/spring.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/docker.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/git.svg" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://hits.seeyoufarm.com/icon/postman.svg" />][web]
+[<img align="left" alt="Intellij Idea" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/icon-intellij-idea.svg" />][web]
+[<img align="left" alt="Webstorm" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/icon-webstorm.svg" />][web]
+[<img align="left" alt="DataGrip" width="30px" height="30px" src="" />][web]
+[<img align="left" alt="Angular" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/angular.svg" />][web]
+[<img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/js.svg" />][web]
+[<img align="left" alt="Java" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/java.svg" />][web]
+[<img align="left" alt="Maven" width="30px" height="30px" src="https://hits.seeyoufarm.com/icon/apachemaven.svg" />][web]
+[<img align="left" alt="Bash" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/bash.svg" />][web]
+[<img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/html5.svg" />][web]
+[<img align="left" alt="TypeScript" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/typescript.svg" />][web]
+[<img align="left" alt="Postgres" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/postgresql.svg" />][web]
+[<img align="left" alt="CSS" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/CSS3.svg" />][web]
+[<img align="left" alt="Spring" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/spring.svg" />][web]
+[<img align="left" alt="Docker" width="30px" height="30px" src="https://hits.seeyoufarm.com/icon/docker.svg" />][web]
+[<img align="left" alt="Git" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/git.svg" />][web]
+[<img align="left" alt="Gitlab" width="30px" height="30px" src="" />][web]
+[<img align="left" alt="Postman" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/postman.svg" />][web]
 
 <br />
 <br />
