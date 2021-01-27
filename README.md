@@ -6,7 +6,7 @@
 ## I am an ambitious developer
 
 
-- 📕 I’m currently learning <img alt="heroku" width="80px" height="23px" src="https://www.pngfind.com/pngs/m/337-3378411_svg-vector-heroku-logo-hd-png-download.png" />
+- 📕 I’m currently learning <img alt="heroku" width="80px" height="23px" src="https://raw.githubusercontent.com/albi23/albi23/b56e3e8a32cc5f2918e2fbfc7032c097c32768b0/logos/heroku.svg" />
 - 👯 I'm looking for someone for creating interesting project
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🎸 Interests : math, physics, running
@@ -33,6 +33,8 @@
 [<img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/html5.svg" />][web]
 [<img align="left" alt="CSS" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/CSS3.svg" />][web]
 [<img align="left" alt="Java" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/java.svg" />][web]
+<br />
+
 [<img align="left" alt="Spring" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/spring.svg" />][web]
 [<img align="left" alt="Maven" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/fb2881a5d75fdb52dd54c282173af8040f4ca7b4/logos/apachemaven.svg" />][web]
 [<img align="left" alt="Postgres" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/postgresql.svg" />][web]
