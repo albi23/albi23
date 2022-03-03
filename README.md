@@ -53,7 +53,7 @@ __        __         _
 <br />
 
 [<img align="left" title="Spring" alt="Spring" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/spring.svg" />][web]
-[<img align="left" title="Maven" alt="Maven" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/fb2881a5d75fdb52dd54c282173af8040f4ca7b4/logos/apachemaven.svg" />][web]
+[<img align="left" title="Maven" alt="Maven" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/8874e8e8cd86ce77de82017cfdc512c3a66ef795/logos/apachemaven.svg" />][web]
 [<img align="left" title="Postgres" alt="Postgres" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/postgresql.svg" />][web]
 [<img align="left" title="Bash" alt="Bash" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/bash.svg" />][web]
 [<img align="left" title="Docker" alt="Docker" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/fb2881a5d75fdb52dd54c282173af8040f4ca7b4/logos/docker.svg" />][web]
