@@ -14,10 +14,7 @@ __        __         _
  | |_| | | | | |_  |  _  | | |_| | | |_) |   |  __/  | |    | (_) | |  _| | | | | |  __/
   \____| |_|  \__| |_| |_|  \__,_| |_.__/    |_|     |_|     \___/  |_|   |_| |_|  \___| 
   ```
-### Hi there, I'm a full-stack developer, I mainly program in Java and the Angular framework. Currently, I work for blue-veery 😊
-
-[<img title="blue-veery" alt="blue-veery" width="250px" height="250px" src="https://blue-veery.com/wp-content/uploads/2015/11/blue-signet.png" />][blue-veery]
-
+### Hi there, I'm a full-stack developer, I mainly program in Java and the Angular framework.
 
 ## I am an ambitious developer
 
