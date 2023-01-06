@@ -60,6 +60,8 @@ __        __         _
 [<img align="left" title="Jira" alt="Jira" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/fb2881a5d75fdb52dd54c282173af8040f4ca7b4/logos/jira.svg" />][web]
 [<img align="left" title="Postman" alt="Postman" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/postman.svg" />][web]
 
+[<img align="left" title="Logo" alt="Logo" width="188px" height="132px" src="https://raw.githubusercontent.com/albi23/albi23/cfb8433af7eee45d3c4b0a980602a1dc8ee2669b/logos/albi.svg" />][web]
+
 <br />
 <br />
 
