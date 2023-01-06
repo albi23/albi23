@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img align="center" title="Logo" alt="Logo" width="285" height="180" src="https://raw.githubusercontent.com/albi23/albi23/9b49398ced26f798c1edad14742d052dadbfb9de/logos/albi-white-transparent.svg" />
+</p>
+
+<br>
+<br>
 
 ``` 
 __        __         _                                                                           
@@ -60,7 +66,7 @@ __        __         _
 [<img align="left" title="Jira" alt="Jira" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/fb2881a5d75fdb52dd54c282173af8040f4ca7b4/logos/jira.svg" />][web]
 [<img align="left" title="Postman" alt="Postman" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/postman.svg" />][web]
 
-[<img align="left" title="Logo" alt="Logo" width="116" height="170" src="https://raw.githubusercontent.com/albi23/albi23/7c11a83484e5675a0b1fee32dd6ffd814dace931/logos/albi.svg" />][web]
+
 
 <br />
 <br />
