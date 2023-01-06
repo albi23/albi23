@@ -1,7 +1,8 @@
 
 <p align="center">
-    <img align="center" title="Logo" alt="Logo" width="285" height="180" src="https://raw.githubusercontent.com/albi23/albi23/9b49398ced26f798c1edad14742d052dadbfb9de/logos/albi-white-transparent.svg#gh-dark-mode-only" />
-  <img align="center" title="Logo" alt="Logo" width="285" height="180" src="https://raw.githubusercontent.com/albi23/albi23/ff84130f3e4400ec267a3df5a391c8bec3372b97/logos/albi.svg#gh-light-mode-only" />
+    <img align="center" title="Logo" alt="Logo" width="285" height="180" src="https://raw.githubusercontent.com/albi23/albi23/81ab91fb4c7e146543be47be7113a8ae208e4e0d/logos/albi-white-transparent.svg#gh-dark-mode-only" />
+  <img align="center" title="Logo" alt="Logo" width="285" height="180" src="https://raw.githubusercontent.com/albi23/albi23/0ef2e604b236cf525d3acc2e270f17582cbed970/logos/albi.svg#gh-light-mode-only" />
+  
 </p>
 
 <br>
