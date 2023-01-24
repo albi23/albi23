@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/albi23/albi23/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
     <img align="center" title="Logo" alt="Logo" width="285" height="180" src="https://raw.githubusercontent.com/albi23/albi23/81ab91fb4c7e146543be47be7113a8ae208e4e0d/logos/albi-white-transparent.svg#gh-dark-mode-only" />
