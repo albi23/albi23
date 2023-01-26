@@ -80,7 +80,7 @@ __        __         _
 [blue-veery]: https://blue-veery.com/
 [spring-generator]: https://github.com/blue-veery-gmbh/spring-rest-2-ts
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albi23&custom_title=albi23%20Stats%202021%3A%20)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albi23&custom_title=albi23%20Stats%202023%3A%20)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbi23&count_bg=%233D66C8&title_bg=%23232D4C7C&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false"/></a>
