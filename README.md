@@ -30,7 +30,7 @@ __        __         _
 
 - 📕 I’m currently learning <img title="heroku" title="Heroku" alt="heroku" width="80px" height="23px" src="https://raw.githubusercontent.com/albi23/albi23/b56e3e8a32cc5f2918e2fbfc7032c097c32768b0/logos/heroku.svg" />
 - 👯 I'm looking for someone for creating interesting project
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 🎸 Interests : math, physics, running
 
 ## The project that I am developing
