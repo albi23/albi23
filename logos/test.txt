@@ -1,0 +1,65 @@
+CREATE OR REPLACE PROCEDURE update_table_price IS
+    v_count NUMBER;
+    v_offset NUMBER := 0;
+    v_batch_size NUMBER := 1000;
+    v_price NUMBER;
+    v_opname VARCHAR2(30) := 'Updating prices';
+    v_desc VARCHAR2(100) := 'Updating prices in my_table';
+BEGIN
+    SELECT COUNT(*) INTO v_count FROM my_table;
+    
+    -- Set the long operation indicator
+    DBMS_APPLICATION_INFO.SET_SESSION_LONGOPS(
+        rindex => 0,
+        slno => 0,
+        op_name => v_opname,
+        target_desc => v_desc,
+        units => v_count,
+        sofar => v_offset
+    );
+    
+    WHILE v_offset < v_count LOOP
+        -- Select the next batch of rows
+        FOR r IN (
+            SELECT *
+            FROM (
+                SELECT t.*, json_value(t.json_data, '$.message.text.price') AS price
+                FROM my_table t
+                WHERE ROWNUM <= v_batch_size + v_offset
+                ORDER BY t.id DESC
+            )
+            WHERE ROWNUM <= v_batch_size
+        ) LOOP
+            -- Update the price column
+            v_price := r.price;
+            UPDATE my_table SET price = v_price WHERE id = r.id;
+        END LOOP;
+        
+        -- Commit the transaction
+        COMMIT;
+        
+        -- Move to the next batch
+        v_offset := v_offset + v_batch_size;
+        
+        -- Update the progress indicator
+        DBMS_APPLICATION_INFO.SET_SESSION_LONGOPS(
+            rindex => 0,
+            slno => 0,
+            op_name => v_opname,
+            target_desc => v_desc,
+            units => v_count,
+            sofar => v_offset
+        );
+    END LOOP;
+    
+    -- Clear the long operation indicator
+    DBMS_APPLICATION_INFO.SET_SESSION_LONGOPS(
+        rindex => 0,
+        slno => 0,
+        op_name => NULL,
+        target_desc => NULL,
+        units => NULL,
+        sofar => NULL
+    );
+END;
+/
