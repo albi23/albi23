@@ -33,11 +33,6 @@ __        __         _
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 🎸 Interests : math, physics, running
 
-## The project that I am developing
-
-[<img title="spring-rest-2-ts" alt="spring-rest-2-ts" width="600px" height="250px" src="https://github.com/albi23/albi23/blob/master/logos/spring-rest-2-ts.png?raw=true" />][spring-generator]
-
-
 ### Connect with me:
 
 [<img align="left" title="aolo23 | LinkedIn" alt="aolo23 | LinkedIn" width="30px" src="https://raw.githubusercontent.com/albi23/albi23/fb2881a5d75fdb52dd54c282173af8040f4ca7b4/logos/linkedin.svg" />][linkedin]
