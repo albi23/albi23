@@ -28,10 +28,9 @@ __        __         _
 ## I am an ambitious developer
 
 
-- 📕 I’m currently learning <img title="heroku" title="Heroku" alt="heroku" width="80px" height="23px" src="https://raw.githubusercontent.com/albi23/albi23/b56e3e8a32cc5f2918e2fbfc7032c097c32768b0/logos/heroku.svg" />
-- 👯 I'm looking for someone for creating interesting project
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 🎸 Interests : math, physics, running
+- 📕 I'm good at solving technical problems 
+- 🥅 Check this out [Albi-GPT] 
+- 🎸 Interests: math, physics, running
 
 ### Connect with me:
 
@@ -74,6 +73,7 @@ __        __         _
 [web]: https://github.com/blue-veery-gmbh/spring-rest-2-ts
 [blue-veery]: https://blue-veery.com/
 [spring-generator]: https://github.com/blue-veery-gmbh/spring-rest-2-ts
+[Albi-GPT]: https://albi23.github.io/Albi-GPT/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albi23&custom_title=albi23%20Stats%202023%3A%20)](https://github.com/anuraghazra/github-readme-stats)
 
