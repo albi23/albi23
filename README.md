@@ -23,7 +23,7 @@ __        __         _
  | |_| | | | | |_  |  _  | | |_| | | |_) |   |  __/  | |    | (_) | |  _| | | | | |  __/
   \____| |_|  \__| |_| |_|  \__,_| |_.__/    |_|     |_|     \___/  |_|   |_| |_|  \___| 
   ```
-### Hi there, I'm a full-stack developer, I mainly program in Java and the Angular framework.
+### Hi there, I am a software engineer and I mainly program in Java and the Angular framework.
 
 ## I am an ambitious developer
 
