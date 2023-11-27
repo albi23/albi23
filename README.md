@@ -23,12 +23,12 @@ __        __         _
   ```
 ### Hi there, I am a software engineer and I mainly program in Java and the Angular framework.
 
-## I am an ambitious developer
+##
 
-
-- 📕 I'm good at solving technical problems 
-- 🥅 Check this out [Albi-GPT] 
-- 🎸 Interests: math, physics, running
+-  👉 I'm good at solving technical problems
+-  👉 I really like challenging tasks
+-  👉 Interests: programming, math, physics, running
+-  👉 Check this out [Albi-GPT] 
 
 ### Connect with me:
 
