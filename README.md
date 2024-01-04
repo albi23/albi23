@@ -41,7 +41,7 @@ __        __         _
 [<img align="left" title="Intellij Idea" alt="Intellij Idea" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/icon-intellij-idea.svg" />][JetBrains]
 [<img align="left" title="Webstorm" alt="Webstorm" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/icon-webstorm.svg" />][JetBrains]
 [<img align="left" title="DataGrip" alt="DataGrip" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/fb2881a5d75fdb52dd54c282173af8040f4ca7b4/logos/icon-datagrip.svg" />][JetBrains]
-[<img align="left" title="Angular" alt="Angular" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/angular.svg" />][web]
+[<img align="left" title="Angular" alt="Angular" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/7f9c95cea336901ba3b5fad82a7d285841164b83/logos/angular.svg" />][web]
 [<img align="left" title="TypeScript" alt="TypeScript" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/typescript.svg" />][web]
 [<img align="left" title="JavaScript" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/js.svg" />][web]
 [<img align="left" title="HTML5" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/albi23/albi23/b05037ca1b26c9bf830e864dcaa39aed7de5b4d3/logos/html5.svg" />][web]
